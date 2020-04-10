@@ -1,0 +1,6 @@
+.env
+xlsx/
+csv/
+imgs/
+node_modules/
+screenshot/
